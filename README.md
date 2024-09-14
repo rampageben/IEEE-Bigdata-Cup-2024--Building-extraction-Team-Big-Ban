@@ -1,8 +1,8 @@
 # IEEE Bigdata Cup 2024: Building Extraction
 
-## Team: Big Ban
+## Team: Big Ben
 
-This project is part of the IEEE Bigdata Cup 2024 competition, specifically focusing on building extraction using the Mask R-CNN model. Our team, Big Ban, is from Feng Chia University, Taiwan.
+This project is part of the IEEE Bigdata Cup 2024 competition, specifically focusing on building extraction using the Mask R-CNN model. Our team, Big Ben, is from Feng Chia University, Taiwan.
 
 ## Project Overview
 
@@ -31,6 +31,12 @@ coco/
 - **annotations/val.json**: Contains annotations for validation data.
 - **train/image/**: Contains the training images.
 - **val/image/**: Contains the validation images.
+  
+## Model Weights
+
+You can download the pre-trained model weights from the following link:
+
+[Download Model Weights](https://drive.google.com/file/d/1AyqP2h4MC8zMNPslz-uuPbtKFuYgLhWY/view?usp=drive_link)
 
 ## Training
 
